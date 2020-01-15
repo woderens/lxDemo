@@ -7,6 +7,10 @@
 
 	<modules>
 
+	<module>person-dmo</module>
+	<module>person-commonutil</module>
+	<module>person-service</module>
+	<module>person-backend</module>
 	</modules>
 	
 	<properties>
